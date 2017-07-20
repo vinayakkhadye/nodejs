@@ -11,3 +11,5 @@ http.createServer(function (request, response) {
 
 // Console will print the message
 console.log('Server running at http://52.91.147.33/');
+
+do{++x;console.log(x);}while(x<5);
